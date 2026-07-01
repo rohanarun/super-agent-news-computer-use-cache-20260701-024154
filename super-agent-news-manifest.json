@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[oracle.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHBRUnJ2M25QWFJBV0tqN3JpVjh5YkxiZU5sRnVIeGFqaEF4UU1wY1ZxZHhiRkxaR21zQUlxTmZJZW1LMWhMNW5Hd3VWQmowZUk4S0FPZ1B5Z1ZzLVRhSi12emNnRWF6cEFMR3MtVmhReUkyWWNWZVdqcy1SNWIyRE51c21mNk5oMS1uU1ZlM2Z4Z1hVNGRoOUlvWm14R3R3MTNLcEhRRTBQU00?oc=5)",
+    "[techwireasia.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBQTDdBOEp2cnpNaDJLa2RhT3RJY08zXzhwM1ZpVDgyOE5lMGhNc3UtcEhfMS1vRHFSVGpFdVlXSVF1STd1aGx6VXdSTTN4N3FWa2wzZVBUZGpJRWFDUjl2VEdFVzJ0YTJjX0V0WnZYYTFGOEp5TFBPN0VR?oc=5)",
+    "[aimultiple.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TR0dCckYxUDF2Ym9KZ3RNS3dDVUg5WGFHOEt5YjVLYmZucXBZNkxHUVpCbmQ3MHEwWWRKUlFsdmp4OUxicURxR0lWQzdhQUswUEY5UDhnTWtMTWFSdnRIbU9R?oc=5)",
+    "[cloudflare.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvSVVxcGlNanU2QlZMaWNNc2pVU0FNczJLYzhWWktPdkFOWUJJNW1DYmNramtxWkx5emRET1owUThjQ1E1RGl2U2tuTFRoOGhpOGlZUVhkT1RnUWxncWEtcEhDVTJ2UQ?oc=5)",
+    "[openai.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)"
+  ],
+  "design_plan": "rng=42; AIDA: attention via centered hero, interest via workflow steps, desire via cache reuse examples, action via CTA; hero math: max-width 1120px, clamp typography for 2\u20133 lines; bento density proof: compare-grid and bento use grid-auto-flow:dense; label sweep: competitors named; button contrast check: black/white pills on paper background.",
+  "generated_at": "2026-07-01T02:42:02.005526+00:00",
+  "headline": "Computer-use cache for AI agents running repeated workflows",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "An indexable, builder-focused use-case page explaining how Super\u2019s computer-use cache makes repeated browser and desktop automations cheaper, faster, and more reliable \u2014 with real computer control, reusable action traces, and clear operator safeguards."
+}
